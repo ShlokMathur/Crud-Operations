@@ -1,0 +1,11 @@
+id,first_name,last_name,email,phone,address,city,state,zip_code,registration_date
+1,Shlok,mathur,Shlok.mathur@example.com,+11234567890,123 Elm St,Springfield,IL,62704,2020-01-01
+2,Shubham,Mittal,Shubham.Mittal@example.com,+11234567891,456 Oak St,Springfield,IL,62704,2020-01-02
+3,Shradha,Shukla,Shradha.Shukla@example.com,+11234567892,789 Maple St,Springfield,IL,62704,2020-01-03
+4,Akshita,adhikari,Akshita.adhikari@example.com,+11234567893,101 Pine St,Springfield,IL,62704,2020-01-04
+5,Aryan,Tiwari,michael.brown@example.com,+11234567894,202 Birch St,Springfield,IL,62704,2020-01-05
+6,Rithuraj,Nambiar,Rithuraj.davis@example.com,+11234567895,303 Cedar St,Springfield,IL,62704,2020-01-06
+7,Vedanshu,sharma,Vedanshu.sharma@example.com,+11234567896,404 Oak St,Springfield,IL,62704,2020-01-07
+8,Saksham,gupta,Saksham.gupta@example.com,+11234567897,505 Pine St,Springfield,IL,62704,2020-01-08
+9,Harshit,mathur,Harshit.mathur@example.com,+11234567898,606 Maple St,Springfield,IL,62704,2020-01-09
+10,Samiksha,Thakur,Samiksha.Thakur@example.com,+11234567899,707 Birch St,Springfield,IL,62704,2020-01-10
